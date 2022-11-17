@@ -15,11 +15,11 @@ namespace TestOrbwalker
 
         private static void OnGameLoad()
         {
-            // Cracked by UltraPanda ~ discord.gg/V4ZdTKtZgN
+            // Cracked by UltraPanda ~ discord.gg/Rw8Xm8udeE
 
 	    // Loader
             Logging.Write(false, true, "InfoA")(LogLevel.Info, "Cracked by UltraPanda ~ Have Fun!");
-            Logging.Write(false, true, "InfoC")(LogLevel.Info, "For future updates join here >> discord.gg/V4ZdTKtZgN");
+            Logging.Write(false, true, "InfoC")(LogLevel.Info, "For future updates join here >> discord.gg/Rw8Xm8udeE");
 
             try
             {

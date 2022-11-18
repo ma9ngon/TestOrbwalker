@@ -1,13 +1,3 @@
-# TestOrbwalker
-**How to Install**
-
-    - Local:
-        + Download TestOrbwalker to any folder
-        + Click Install new assembly on EnsoulSharp
-        + Click Local field and select the folder TestOrbwalker is in
-        + Click add and your good to go
-        + Gif example https://gyazo.com/2f02ea8dcf3a7e44d93abc82305c1d54
-
 Champion
 
         * Kaisa, Vayne, Aphelios, Jinx, Twitch KogMaw, Samira, Ashe, Caitlyn, Varus Draven, Tristana, Yasuo

@@ -1,7 +1,2 @@
 Champion
-
-        * Kaisa, Vayne, Aphelios, Jinx, Twitch KogMaw, Samira, Ashe, Caitlyn, Varus Draven, Tristana, Yasuo
-        * TwistedFate, Irelia Gwen, Lucian, Katarina, Sett, DrMundo, Riven Xayah, Ezreal, Sylas, Akshan, Yone
-        * Pyke, Viego, Senna, Fiora, Corki, Xerath, Viktor Cassopeia, Camille, Leblanc, Aatrox, Zed, LeeSin
-        * Sivir, Karthus, Evelynn, MissFortune, Udyr, Urgot Kennen, Gangplank, Chogath, Jhin, Ryze, Vex, Swain
-        * Akali Graves, Warwick, Brand, Zeri, Rengar, Zilean, XinZhao, Kindred Blitzcrank, Nilah.
+* Ezreal, Jinx, Viktor, Ahri, Cassiopeia, Kaisa, Kassadin, Leblanc, Katarina, Vi, Zed, Brand, Jayce, Vayne, Rengar, Taliyah, Graves, Kalista, Zyra, LeeSin, Kled, Twitch, Ashe, Tristana, TwistedFate, KogMaw, Quinn

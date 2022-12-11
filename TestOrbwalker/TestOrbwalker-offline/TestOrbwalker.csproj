@@ -40,22 +40,22 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="EnsoulSharp">
-      <HintPath>..\..\..\Loader\Reference\EnsoulSharp.dll</HintPath>
+      <HintPath>C:\Users\concac\Downloads\EnsoulSharp\Reference\EnsoulSharp.dll</HintPath>
     </Reference>
     <Reference Include="EnsoulSharp.SDK">
-      <HintPath>..\..\..\Loader\Reference\EnsoulSharp.SDK.dll</HintPath>
+      <HintPath>C:\Users\concac\Downloads\EnsoulSharp\Reference\EnsoulSharp.SDK.dll</HintPath>
     </Reference>
     <Reference Include="log4net">
-      <HintPath>..\..\..\Loader\Reference\log4net.dll</HintPath>
+      <HintPath>C:\Users\concac\Downloads\EnsoulSharp\Reference\log4net.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX">
-      <HintPath>..\..\..\Loader\Reference\SharpDX.dll</HintPath>
+      <HintPath>C:\Users\concac\Downloads\EnsoulSharp\Reference\SharpDX.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.Direct3D9">
-      <HintPath>..\..\..\Loader\Reference\SharpDX.Direct3D9.dll</HintPath>
+      <HintPath>C:\Users\concac\Downloads\EnsoulSharp\Reference\SharpDX.Direct3D9.dll</HintPath>
     </Reference>
     <Reference Include="SharpDX.Mathematics">
-      <HintPath>..\..\..\Loader\Reference\SharpDX.Mathematics.dll</HintPath>
+      <HintPath>C:\Users\concac\Downloads\EnsoulSharp\Reference\SharpDX.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
